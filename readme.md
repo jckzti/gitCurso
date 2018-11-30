@@ -11,5 +11,3 @@ Manda no zap
 
 alterando alguma coisa
 Novo teste da udemy 
-
-mais qualquer coisa
