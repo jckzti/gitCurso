@@ -1,2 +1,6 @@
 *.json
+<<<<<<< Updated upstream
 *.DS_Store
+=======
+*.DS_Store
+>>>>>>> Stashed changes

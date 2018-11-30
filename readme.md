@@ -7,3 +7,6 @@ Gostou do curso? Quer mais? Ajude com uma doação é valido =)
 É meu amigo, não ta fácil a vida
 
 Manda no zap
+
+
+alterando alguma coisa
